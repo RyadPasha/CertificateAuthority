@@ -1,5 +1,7 @@
 Certificate Authority
 ---------------------
+This Batch file will help you creating your own certificate authority (CA) using the OpenSSL command-line tools. This is useful in a number of situations, such as issuing server certificates to secure an intranet website, or for batchfile certificates to clients to allow them to authenticate to a server.
+
 ```
 Root CA
 Root CA > Intermediate CA
